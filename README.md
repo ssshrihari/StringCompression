@@ -22,6 +22,14 @@ AND ITS FREQUENCY IN ORIGINAL STRING.*
 ## SpaceComplexity:1</br>
 ## Language:C
 
+## Compilation Linux
+> cc stringcompression24032018.c -o tringcompression24032018
+# OR
+> gcc stringcompression24032018.c -o stringcompression24032018
+
+## Execution Linux
+> $ ./demo
+
 # OUTPUT RESULT
 
 aaaaaaaaabbbbbbbbbcccccccccddddddddeeeeeeeeefffffffffggggggggghhhhhhhhhjjjjjjjjjkkkkkkkkklllllllllpppppppppiiiiiiiiiyyyyyyyyy</br>
