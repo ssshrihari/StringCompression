@@ -19,7 +19,7 @@ AND ITS FREQUENCY IN ORIGINAL STRING.*
 
 # Constraints
 ## TimeComplexity:O(n)</br>
-## SpaceComplexity:1</br>
+## SpaceComplexity:O(1)</br>
 ## Language:C
 
 ## Compilation Linux
