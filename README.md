@@ -24,7 +24,7 @@ AND ITS FREQUENCY IN ORIGINAL STRING.*
 
 ## Compilation Linux
 > cc stringcompression24032018.c -o stringcompression24032018
-# OR
+### OR
 > gcc stringcompression24032018.c -o stringcompression24032018
 
 ## Execution Linux
