@@ -1,11 +1,11 @@
 # StringCompression
 AUTHOR:SHRIHARI SHETTY</br>
 DATE:24/03/2018
-# PROBLEM
+## PROBLEM
 *GIVEN A STRING IN LOWER CASE OR UPPERCASE, MAY OR MAY NOT HAVE REPEATED CHARACTERS IN 
 CONTINUOUS ORDER,WRITE A PROGRAM WHICH COMPRESSES THE STRING AND OUTPUTS THE SINGLE OCCURANCE
 AND ITS FREQUENCY IN ORIGINAL STRING.*
-# NOTE
+## NOTE
 ### CONSECUTIVE OCCURENCE OF A CHARACTER WILL BE NOT MORE THAN 9.
 
 > INPUT:abcd</br>    
@@ -17,7 +17,7 @@ AND ITS FREQUENCY IN ORIGINAL STRING.*
 > INPUT:a</br>
 > OUTPUT:a1
 
-# Constraints
+## Constraints
 ## TimeComplexity:O(n)</br>
 ## SpaceComplexity:O(1)</br>
 ## Language:C
@@ -30,7 +30,7 @@ AND ITS FREQUENCY IN ORIGINAL STRING.*
 ## Execution Linux
 > $ ./demo
 
-# OUTPUT RESULT
+## OUTPUT RESULT
 
 aaaaaaaaabbbbbbbbbcccccccccddddddddeeeeeeeeefffffffffggggggggghhhhhhhhhjjjjjjjjjkkkkkkkkklllllllllpppppppppiiiiiiiiiyyyyyyyyy</br>
 a9b9c9d8e9f9g9h9j9k9l9p9i9y9
