@@ -23,7 +23,7 @@ AND ITS FREQUENCY IN ORIGINAL STRING.*
 ## Language:C
 
 ## Compilation Linux
-> cc stringcompression24032018.c -o tringcompression24032018
+> cc stringcompression24032018.c -o stringcompression24032018
 # OR
 > gcc stringcompression24032018.c -o stringcompression24032018
 
