@@ -8,16 +8,24 @@ AND ITS FREQUENCY IN ORIGINAL STRING.
 # NOTE
 CONSECUTIVE OCCURENCE OF A CHARACTER WILL BE NOT MORE THAN 9.
 
-INPUT:abcd
-OUTPUT:a1b1c1d1
+INPUT:abcd</br>    
+OUTPUT:a1b1c1d1  
 
-INPUT:aaabbc
+INPUT:aaabbc</br>
 OUTPUT:a3b2c1
 
-INPUT:a
+INPUT:a</br>
 OUTPUT:a1
 
 # Constraints
-TimeComplexity:O(n)
-SpaceComplexity:1
+TimeComplexity:O(n)/br>
+SpaceComplexity:1/br>
 Language:C
+
+# OUTPUT RESULT
+
+aaaaaaaaabbbbbbbbbcccccccccddddddddeeeeeeeeefffffffffggggggggghhhhhhhhhjjjjjjjjjkkkkkkkkklllllllllpppppppppiiiiiiiiiyyyyyyyyy</br>
+a9b9c9d8e9f9g9h9j9k9l9p9i9y9
+
+Time to Execute is:0.000000
+
